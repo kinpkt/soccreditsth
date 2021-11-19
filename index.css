@@ -1,0 +1,16 @@
+*
+{
+    font-family: Mitr;
+    text-align: center;
+}
+
+body
+{
+    background-image: url(thailand.svg);
+}
+
+h1, h2
+{
+    color: #DAA520;
+    -webkit-text-stroke: .25px black;
+}
